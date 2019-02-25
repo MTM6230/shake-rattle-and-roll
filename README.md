@@ -9,7 +9,7 @@ In this lab, you will use what you have learned about JavaScript variables and H
 ## Requirements
 Follow the requirements below to successfully complete the assignment.
 
-1. Download the [Shake, Rattle and Roll starter files](https://github.com/MTM6230/shake-rattle-and-roll/archive/master.zip).
+1. Download the [Shake, Rattle and Roll starter files](https://github.com/MTM6230/shake-rattle-and-roll/archive/master.zip). Inside the zip file you will find the following files: `index.html`, `style.css` and `index.js`. All of the changes will be made to the `index.js` file. **Do NOT change the `index.html` or `style.css` files.**
 2. Retrieve the first box by using its `id`.
 3. Add the classes `shake`, `animated`, and `infinite` to the first box.
 4. Add the text "Shake" to the first box.
@@ -23,3 +23,4 @@ Follow the requirements below to successfully complete the assignment.
 12. Retrieve the four box using the `data-animation` attribute.
 13. Add a class to the four box with the same value as the `data-animation` attribute. **Do NOT "hard code" the string.**
 14. Retrieve the five box, then choose your own animation and make the box animate forever (See [Animate.css](https://daneden.github.io/animate.css/)).
+15. Once completed, submit the `index.js` file to **Shake, Rattle and Roll** assignment on Brightspace.
